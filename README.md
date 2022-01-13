@@ -1,4 +1,4 @@
-# invoice-email
+# Invoice-Email
 To automatically create invoices for Sales Orders and send email to contact person.
 
 # Steps
